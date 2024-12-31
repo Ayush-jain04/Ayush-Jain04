@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-jain04&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-jain04" /> </p>
 
-- 🌱 I’m currently learning **RTL, System Verilog, Digital System Processing and Analog Circuits.**
+- 🌱 I’m currently learning **RTL, System Verilog, Digital Signal Processing and Analog Circuits.**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ayush-jain-a135742a5](https://www.linkedin.com/in/ayush-jain-a135742a5)
 
